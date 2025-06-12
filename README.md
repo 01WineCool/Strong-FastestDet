@@ -28,3 +28,7 @@ Acknowledgments ：
       year={2022}
 }
 
+
+Model Channel size Appendix:
+<img width="272" alt="edbea845783b9411bf45ab82cc84428" src="https://github.com/user-attachments/assets/c1c1efb7-b43c-4ced-9631-abb70836aa6a" />
+
