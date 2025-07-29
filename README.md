@@ -21,11 +21,12 @@ C.Environment
 D.more see : https://github.com/dog-qiuqiu/FastestDet
 
 Acknowledgments ：
-@misc{=FastestDet,
-      title={FastestDet: Ultra lightweight anchor-free real-time object detection algorithm.},
-      author={xuehao.ma},
-      howpublished = {\url{https://github.com/dog-qiuqiu/FastestDet}},
-      year={2022}
+@misc
+{=FastestDet,
+title={FastestDet: Ultra lightweight anchor-free real-time object detection algorithm.},
+author={xuehao.ma},
+howpublished = {\url{https://github.com/dog-qiuqiu/FastestDet}},
+year={2022}
 }
 
 
