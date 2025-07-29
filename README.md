@@ -15,18 +15,18 @@ pip install onnx-simplifier -i http://mirrors.aliyun.com/pypi/simple
 python3 runtime.py
 
 C.Environment
-1.Create an independent virtual environment and activate it.
-2.pip install -r requirements.txt
+1. Create an independent virtual environment and activate it.
+2. pip install -r requirements.txt
 
 D.more see : https://github.com/dog-qiuqiu/FastestDet
 
 Acknowledgments ：
 @misc
-{=FastestDet,
-title={FastestDet: Ultra lightweight anchor-free real-time object detection algorithm.},
-author={xuehao.ma},
-howpublished = {\url{https://github.com/dog-qiuqiu/FastestDet}},
-year={2022}
+ {=FastestDet,
+ title={FastestDet: Ultra lightweight anchor-free real-time object detection algorithm.},
+ author={xuehao.ma},
+ howpublished = {\url{https://github.com/dog-qiuqiu/FastestDet}},
+ year={2022}
 }
 
 
