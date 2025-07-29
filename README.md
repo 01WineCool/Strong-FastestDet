@@ -1,6 +1,8 @@
 # Strong-FastestDet
 
-This paper was submitted to the Journal of Real-Time Image Processing.
+cite:{Wu, M., Peng, J., Yu, X. et al. Edge-FastestDet: a real-time and ultra-lightweight model for detection. J Real-Time Image Proc 22, 154 (2025). https://doi.org/10.1007/s11554-025-01731-w}
+
+This paper was accepted by the Journal of Real-Time Image Processing.
 
 A: How to Train？
 1. Configure train: "train.txt" and val: "C:val.txt" under Strong-FastestDeT\configs\ Co.yaml
@@ -22,11 +24,12 @@ D.more see : https://github.com/dog-qiuqiu/FastestDet
 
 Acknowledgments ：
 @misc
- {=FastestDet,
+{=FastestDet,
  title={FastestDet: Ultra lightweight anchor-free real-time object detection algorithm.},
  author={xuehao.ma},
  howpublished = {\url{https://github.com/dog-qiuqiu/FastestDet}},
- year={2022}
-}
+ year={2022}}
+
+
 
 
